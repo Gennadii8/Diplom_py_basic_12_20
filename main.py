@@ -136,7 +136,7 @@ def main():
     href_for_ya = ya_client.make_a_folder()
     ya_client.upload_by_url()
     # print()
-    # print(result_vk)
+    # pprint(result_vk)
 
 
 main()
